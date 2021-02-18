@@ -10,7 +10,7 @@ If you ever need help with Minecraft Programming, please feel free to DM me on d
 Discord: quick#1000
 E-Mail: quickdaffy@gmail.com
 
-[![quickdaffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=quickdaffy&show_icons=true&theme=vision-friendly-dark)]
+![quickdaffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=quickdaffy&show_icons=true&theme=vision-friendly-dark)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quickdaffy&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quickdaffy&theme=vision-friendly-dark)
