@@ -14,3 +14,5 @@ E-Mail: quickdaffy@gmail.com
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quickdaffy&theme=vision-friendly-dark)
+
+[IMG]gen.plancke.io/exp/quickdaffy.png[/IMG]
