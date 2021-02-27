@@ -3,7 +3,7 @@
 I'm quickdaffy, or just quick. I've been programming since I was 9, and have never stopped loving it.
 I started with Ruby, then HTML/CSS, and now Java, C++, and C# (but mostly java).
 
-I mostly make PVP Clients for Minecraft, such as Solar (https://discord.gg/Aux6kUMvfT).
+I am the Lead Developer of Voyage Client, a Minecraft 1.8.9 PVP/QOL client. You can join it at discord.gg/voyage .
 
 If you ever need help with Minecraft Programming, please feel free to DM me on discord! Make sure your question is reasonable, I won't help you skid. 
 
@@ -15,4 +15,3 @@ E-Mail: quickdaffy@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quickdaffy&theme=vision-friendly-dark)
 
-[IMG]gen.plancke.io/exp/quickdaffy.png[/IMG]
