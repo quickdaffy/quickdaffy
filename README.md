@@ -2,12 +2,16 @@
 
 I'm quickdaffy, or just quick. I've been programming since I was 9, and have never stopped loving it.
 I started with Ruby, then HTML/CSS, and now Java, C++, and C# (but mostly java).
+I also make tutorials on YouTube on how to create a PVP client, check them out! www.youtube.com/quickdaffy
 
-I am the Lead Developer of Voyage Client, a Minecraft 1.8.9 PVP/QOL client. You can join it at discord.gg/voyage .
+My main project is glori.tech, a platform for Minecraft Modifications such as PVP Clients, Modpacks, Utility Mods, and more. Check us out at http://glori.tech
 
-If you ever need help with Minecraft Programming, please feel free to DM me on discord! Make sure your question is reasonable, I won't help you skid. 
+If you ever need help with Minecraft Programming (or anything else), please feel free to join my discord below!
 
-Discord: quick#1000
+Discord: quick#1337
+
+Discord Server: https://discord.gg/GYfSRtrQjn
+
 E-Mail: quickdaffy@gmail.com
 
 ![quickdaffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=quickdaffy&show_icons=true&theme=vision-friendly-dark)
